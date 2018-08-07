@@ -1,0 +1,6 @@
+framework module Pods_ExpandHIIT {
+  umbrella header "Pods-ExpandHIIT-umbrella.h"
+
+  export *
+  module * { export * }
+}
