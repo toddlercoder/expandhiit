@@ -1,4 +1,4 @@
-# [Expand HIIT iOS App] ("https://itunes.apple.com/us/app/expand-hiit/id1411531516?mt=8")
+# [Expand HIIT iOS App] (https://itunes.apple.com/us/app/expand-hiit/id1411531516?mt=8)
 
 
 -----
